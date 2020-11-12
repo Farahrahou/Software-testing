@@ -1,0 +1,25 @@
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging2\obj\Debug\netcoreapp3.1\VoorbeeldDebugging2.AssemblyInfoInputs.cache
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging2\obj\Debug\netcoreapp3.1\VoorbeeldDebugging2.AssemblyInfo.cs
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging2\obj\Debug\netcoreapp3.1\VoorbeeldDebugging2.csproj.CoreCompileInputs.cache
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging2\bin\Debug\netcoreapp3.1\VoorbeeldDebugging2.exe
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging2\bin\Debug\netcoreapp3.1\VoorbeeldDebugging2.deps.json
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging2\bin\Debug\netcoreapp3.1\VoorbeeldDebugging2.runtimeconfig.json
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging2\bin\Debug\netcoreapp3.1\VoorbeeldDebugging2.runtimeconfig.dev.json
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging2\bin\Debug\netcoreapp3.1\VoorbeeldDebugging2.dll
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging2\bin\Debug\netcoreapp3.1\VoorbeeldDebugging2.pdb
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging2\obj\Debug\netcoreapp3.1\VoorbeeldDebugging2.dll
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging2\obj\Debug\netcoreapp3.1\VoorbeeldDebugging2.pdb
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging2\obj\Debug\netcoreapp3.1\VoorbeeldDebugging2.genruntimeconfig.cache
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\repo\VoorbeeldDebugging2\bin\Debug\netcoreapp3.1\VoorbeeldDebugging2.exe
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\repo\VoorbeeldDebugging2\bin\Debug\netcoreapp3.1\VoorbeeldDebugging2.deps.json
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\repo\VoorbeeldDebugging2\bin\Debug\netcoreapp3.1\VoorbeeldDebugging2.runtimeconfig.json
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\repo\VoorbeeldDebugging2\bin\Debug\netcoreapp3.1\VoorbeeldDebugging2.runtimeconfig.dev.json
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\repo\VoorbeeldDebugging2\bin\Debug\netcoreapp3.1\VoorbeeldDebugging2.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\repo\VoorbeeldDebugging2\bin\Debug\netcoreapp3.1\VoorbeeldDebugging2.pdb
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\repo\VoorbeeldDebugging2\obj\Debug\netcoreapp3.1\VoorbeeldDebugging2.csprojAssemblyReference.cache
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\repo\VoorbeeldDebugging2\obj\Debug\netcoreapp3.1\VoorbeeldDebugging2.AssemblyInfoInputs.cache
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\repo\VoorbeeldDebugging2\obj\Debug\netcoreapp3.1\VoorbeeldDebugging2.AssemblyInfo.cs
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\repo\VoorbeeldDebugging2\obj\Debug\netcoreapp3.1\VoorbeeldDebugging2.csproj.CoreCompileInputs.cache
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\repo\VoorbeeldDebugging2\obj\Debug\netcoreapp3.1\VoorbeeldDebugging2.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\repo\VoorbeeldDebugging2\obj\Debug\netcoreapp3.1\VoorbeeldDebugging2.pdb
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\repo\VoorbeeldDebugging2\obj\Debug\netcoreapp3.1\VoorbeeldDebugging2.genruntimeconfig.cache

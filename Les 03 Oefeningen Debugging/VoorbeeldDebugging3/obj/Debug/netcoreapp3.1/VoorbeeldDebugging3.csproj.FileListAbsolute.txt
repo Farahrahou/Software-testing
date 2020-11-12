@@ -1,0 +1,12 @@
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging3\bin\Debug\netcoreapp3.1\VoorbeeldDebugging3.exe
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging3\bin\Debug\netcoreapp3.1\VoorbeeldDebugging3.deps.json
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging3\bin\Debug\netcoreapp3.1\VoorbeeldDebugging3.runtimeconfig.json
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging3\bin\Debug\netcoreapp3.1\VoorbeeldDebugging3.runtimeconfig.dev.json
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging3\bin\Debug\netcoreapp3.1\VoorbeeldDebugging3.dll
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging3\bin\Debug\netcoreapp3.1\VoorbeeldDebugging3.pdb
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging3\obj\Debug\netcoreapp3.1\VoorbeeldDebugging3.AssemblyInfoInputs.cache
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging3\obj\Debug\netcoreapp3.1\VoorbeeldDebugging3.AssemblyInfo.cs
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging3\obj\Debug\netcoreapp3.1\VoorbeeldDebugging3.csproj.CoreCompileInputs.cache
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging3\obj\Debug\netcoreapp3.1\VoorbeeldDebugging3.dll
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging3\obj\Debug\netcoreapp3.1\VoorbeeldDebugging3.pdb
+D:\APHS\PRG2_STLAB\OefeningenDebugging\VoorbeeldDebugging3\obj\Debug\netcoreapp3.1\VoorbeeldDebugging3.genruntimeconfig.cache
