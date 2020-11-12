@@ -1,0 +1,9 @@
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\Conways.Library\bin\Debug\netcoreapp3.1\Conways.Library.deps.json
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\Conways.Library\bin\Debug\netcoreapp3.1\Conways.Library.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\Conways.Library\bin\Debug\netcoreapp3.1\Conways.Library.pdb
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.csprojAssemblyReference.cache
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.AssemblyInfoInputs.cache
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.AssemblyInfo.cs
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.csproj.CoreCompileInputs.cache
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.pdb

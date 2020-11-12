@@ -1,0 +1,14 @@
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\FizzBuzz.Library.deps.json
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\FizzBuzz.Library.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\FizzBuzz.Library.pdb
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.csprojAssemblyReference.cache
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.AssemblyInfoInputs.cache
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.AssemblyInfo.cs
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.csproj.CoreCompileInputs.cache
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\software-testing-repo-nabil\Les 07 Oefeningen TDD\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.pdb

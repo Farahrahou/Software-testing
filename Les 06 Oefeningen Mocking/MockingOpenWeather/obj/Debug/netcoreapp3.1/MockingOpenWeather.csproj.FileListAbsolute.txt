@@ -1,0 +1,17 @@
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingOpenWeather\bin\Debug\netcoreapp3.1\MockingOpenWeather.exe
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingOpenWeather\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingOpenWeather\obj\Debug\netcoreapp3.1\MockingOpenWeather.csprojAssemblyReference.cache
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingOpenWeather\obj\Debug\netcoreapp3.1\MockingOpenWeather.AssemblyInfoInputs.cache
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingOpenWeather\obj\Debug\netcoreapp3.1\MockingOpenWeather.AssemblyInfo.cs
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingOpenWeather\obj\Debug\netcoreapp3.1\MockingOpenWeather.csproj.CopyComplete
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingOpenWeather\bin\Debug\netcoreapp3.1\MockingOpenWeather.deps.json
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingOpenWeather\bin\Debug\netcoreapp3.1\MockingOpenWeather.runtimeconfig.json
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingOpenWeather\bin\Debug\netcoreapp3.1\MockingOpenWeather.runtimeconfig.dev.json
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingOpenWeather\bin\Debug\netcoreapp3.1\MockingOpenWeather.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingOpenWeather\bin\Debug\netcoreapp3.1\MockingOpenWeather.pdb
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingOpenWeather\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingOpenWeather\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingOpenWeather\obj\Debug\netcoreapp3.1\MockingOpenWeather.csproj.CoreCompileInputs.cache
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingOpenWeather\obj\Debug\netcoreapp3.1\MockingOpenWeather.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingOpenWeather\obj\Debug\netcoreapp3.1\MockingOpenWeather.pdb
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingOpenWeather\obj\Debug\netcoreapp3.1\MockingOpenWeather.genruntimeconfig.cache

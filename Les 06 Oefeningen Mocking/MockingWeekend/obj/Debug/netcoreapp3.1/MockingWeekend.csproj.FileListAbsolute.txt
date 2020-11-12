@@ -1,0 +1,16 @@
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingWeekend\bin\Debug\netcoreapp3.1\MockingWeekend.exe
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingWeekend\obj\Debug\netcoreapp3.1\MockingWeekend.csprojAssemblyReference.cache
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingWeekend\obj\Debug\netcoreapp3.1\MockingWeekend.AssemblyInfoInputs.cache
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingWeekend\obj\Debug\netcoreapp3.1\MockingWeekend.AssemblyInfo.cs
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingWeekend\bin\Debug\netcoreapp3.1\MockingWeekend.deps.json
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingWeekend\bin\Debug\netcoreapp3.1\MockingWeekend.runtimeconfig.json
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingWeekend\bin\Debug\netcoreapp3.1\MockingWeekend.runtimeconfig.dev.json
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingWeekend\bin\Debug\netcoreapp3.1\MockingWeekend.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingWeekend\bin\Debug\netcoreapp3.1\MockingWeekend.pdb
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingWeekend\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingWeekend\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingWeekend\obj\Debug\netcoreapp3.1\MockingWeekend.csproj.CoreCompileInputs.cache
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingWeekend\obj\Debug\netcoreapp3.1\MockingWeekend.csproj.CopyComplete
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingWeekend\obj\Debug\netcoreapp3.1\MockingWeekend.dll
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingWeekend\obj\Debug\netcoreapp3.1\MockingWeekend.pdb
+C:\Users\Nabil\OneDrive\Bureaublad\20-21 AP_Hogeschool\Software Testing\Oefeningen\Les 06 Oefeningen Mocking\MockingWeekend\obj\Debug\netcoreapp3.1\MockingWeekend.genruntimeconfig.cache
